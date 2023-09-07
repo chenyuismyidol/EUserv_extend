@@ -28,6 +28,4 @@ PASSWORD: 第一个账户密码,第二个账户密码
 
 1、若使用Github Actions运行本脚本，将会公开你的账号中VPS个数以及VPS的ID（**Contract**）
 
-## 参考（及本文档）
-
 hostloc-auto-get-points: https://github.com/inkuang/hostloc-auto-get-points  MIT License
